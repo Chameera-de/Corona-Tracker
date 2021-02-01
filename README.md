@@ -33,3 +33,7 @@
 * [Charts](https://github.com/danielgindi/Charts): Beautiful and powerful charts.
 * [FloatingPanel](https://github.com/SCENEE/FloatingPanel): For the bottom sheet.
 * [Disk](https://github.com/saoudrizwan/Disk): Simplifies loading/saving files.
+
+
+## Author
+Chmaeera De Silva <a href=""><img src="" valign="middle" /></a> 
